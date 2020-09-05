@@ -14,6 +14,16 @@ h3{
   font-family: Sans Serif, Helvetica;
 }
 
+a{
+  text-decoration:none;
+  color:black;
+}
+
+a:hover{
+  text-decoration:underline;
+  color:#11999e;
+}
+
 hr{
   border-color:grey;
   border-style:dotted none none;
